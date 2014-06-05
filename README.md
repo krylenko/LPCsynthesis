@@ -1,3 +1,6 @@
+Linear predictive coding speech synthesis
+=======================================
+
 **************** LPCSR project code *************************
 
 Speech analysis and synthesis using linear predictive coding 
